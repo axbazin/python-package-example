@@ -7,5 +7,5 @@ USAGE:
 
 
 def main():
-    """Print helloe sample."""
-    print('hello sample')  # noqa: T201
+    """Print hello world"""
+    print('hello world')  # noqa: T201

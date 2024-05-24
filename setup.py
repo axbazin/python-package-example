@@ -94,7 +94,7 @@ setup(
         ],
     entry_points={
         'console_scripts': [
-            'samplecli1= sampleproject.cli_int1:main',
+            'testcli= sampleproject.cli_int1:main',
             ]
         #
         },
